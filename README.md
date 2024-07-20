@@ -1,6 +1,6 @@
 # PowerBI
 
-# Project Title
+#Hotel Analysis 
 
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 1. dim_date
